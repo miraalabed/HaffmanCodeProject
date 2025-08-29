@@ -18,13 +18,6 @@ This project is a **File Compression and Decompression System** implemented in *
 
 ---
 
-## 🖥️ Screens
-
-   - Interface Screen(`ui.png`).
-   
-
----
-
 ## ⚙️ Requirements
 - **Java 8+** or later.
 - **JavaFX** libraries.
@@ -56,3 +49,8 @@ This project is a **File Compression and Decompression System** implemented in *
 - StackPane and VBox/HBox layouts for structured GUI.
 - Non-editable TextArea for showing messages and tables.
 
+---
+
+## JavaFX Interface
+
+![App Interface](ui.png)
